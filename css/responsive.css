@@ -1,0 +1,362 @@
+@media (max-width: 1024px){
+    body {
+      width: 103%;
+    }
+}
+@media (max-width: 912px){
+   
+    h1{
+        font-size: 4.5vmin;}
+
+header .container .col-md-7 h1 {
+    font-size: 4.5vmin;
+    font-weight: 700;}
+    
+header .container .col-md-7 h1 {
+    font-size: 4.5vmin;
+    font-weight: 700;
+    text-align: left;
+    font-family: 'M PLUS Rounded 1c', sans-serif;
+}
+.form-group {
+    margin-left: -155px;
+}
+.icons {
+    
+    margin-top: 50px;
+    width: 96%;
+}
+.skills img {
+
+    height: 38vh;
+}
+.portfolio img {
+   
+    height: 21vh;
+}
+
+.testimonial {
+    width: 100%;
+    height: 48vh;
+}
+
+.client {
+    width: 100%;
+    height: 66vh;
+    
+}
+.testimonial .box{
+    display: flex;
+    flex-wrap: nowrap !important;
+}
+
+
+.blog {
+    width: 100%;
+    height: 46vh;
+}
+#footer{
+    height: 78vh;
+}
+
+.blog .icon {
+    width: 50%;
+    height: 4vh;
+  
+}
+.blog img {
+    margin-top: -30px;
+    width: 110%;
+    height: 8vh;
+    margin-left: -5px;
+}
+.about .numbers{
+    display: flex;
+    flex-wrap: wrap;
+
+}
+#footer .footer-top .footer-info button {
+
+    width: 94%;
+    height: 4vh;
+   
+}
+#footer .footer-copyright .icon {
+    width: 189%;
+    height: 8vh;
+    margin-left: 93px;
+}
+#footer .footer-copyright .icon button {
+    width: 12%;
+   
+    margin-left: 36px;
+    margin-top: -38px;
+    height: 6vh;
+}
+
+}
+@media (max-width: 768px){
+    .testimonial {
+        width: 100%;
+        height: 61vh;
+    }
+    .detail img {
+        margin-left: -52px;
+        width: 87%;
+        
+    }
+    .testimonial .box{
+        display: flex;
+        flex-wrap: nowrap !important;
+    }  
+
+p {
+    font-size: 13px;
+}
+.client {
+    width: 100%;
+    height: 77vh;
+}
+.blog i {
+   
+    font-size: 28px;
+    font-weight: 300;
+}
+.blog .date p {
+    font-size: 10px;
+    letter-spacing: 1px;
+    margin-left: 10px;
+}
+}
+@media (max-width: 540px){
+    header .container .col-md-7 p{
+        text-align: center;
+    }
+    header .container .col-md-7 h1{
+        text-align: center;
+    }
+    
+
+header .row .col-md-7{
+    text-align: center;
+}
+.about h1 {
+    
+    padding: 6px;
+    text-align: center;
+    width: 88%;
+    margin-left: 9%;
+}
+.about p {
+    
+  
+ 
+    width: 88%;
+    margin-left: 9%;
+}
+.services h6{
+    margin-top: 82px;
+}
+.common h1 {
+    font-family: 'Hind Siliguri', sans-serif;
+    font-weight: 500;
+    font-size: 31px;
+}
+.common button {
+    width: 166px;
+  
+    margin-left: 26%;
+}
+
+.detail img {
+    margin-left: -78px;
+    width: 15%;
+}.card{
+    padding: 0px;
+}
+.testimonial .box{
+    display: flex;
+    flex-wrap: wrap !important;
+}
+.testimonial{
+    height: 150vh;
+}
+.text-muted {
+    color: #6c757d!important;
+    font-size: 20px;
+}
+.portfolio img {
+    width: 75%;
+    margin-top: 21px;
+    height: 40vh;
+}
+.icons {
+    
+    margin-top: -25px;
+    width: 96%;}
+    .client{
+        height: 200vh;
+    }
+    .client button{
+        width: 28%;
+    }
+    .blog{
+        height: 250vh;
+    }
+    .blog img{
+        width: 105%;
+    height: 37vh;
+    }
+    .blog button{
+        margin-bottom: 46px;
+    }
+    .blog .icon {
+        width: 9%;
+        height: 6vh;
+        margin-left: 13px;
+    }
+    #footer {
+        height: 147vh;
+    }
+    #footer .footer-top .footer-info button {
+        width: 13%;
+        height: 8vh;
+        margin-top: -10px;
+    }
+    #footer .footer-top h4 {
+        margin-top: 13px;
+    }
+    .footer-copyright{
+        display: flex;
+        flex-wrap: wrap !important;
+    }
+    #footer .footer-copyright .icon h4 {
+      
+        margin-top: -26px;
+    }
+}
+@media (max-width: 412px){
+    .about h1{
+        font-size: 24px;
+    }
+    .about p{
+        font-size: 16px;
+    }
+    .common h1 {
+        font-family: 'Hind Siliguri', sans-serif;
+        font-weight: 500;
+        font-size: 20px;
+    }
+    .common button {
+        width: 150px;
+      text-align: center;
+        margin-left: 20%;
+    }
+    .col-3 {
+       
+        max-width: 38%;
+    }
+    .portfolio img {
+        width: 75%;
+        margin-top: 19px;
+        height: 23vh;
+    }
+    .portfolio button{
+        margin-top: 16px;
+    }
+    .form-group input{
+        margin-left: 283px;
+    }
+    .testimonial .box{
+        display: flex;
+        flex-wrap: wrap !important;
+    }
+    .icons {
+        margin-left: 18px;
+        margin-top: -25px;
+        width: 96%;
+    }
+    .detail img {
+        margin-left: -48px;
+        width: 15%;
+    }
+    .client p {
+        width: 73%;
+        margin-left: 17%;}
+        .client h1 {
+            width: 97%;
+            margin-left: 5%; 
+        }
+        .client {
+            height: 150vh;
+        }
+        .blog .icon {
+            width: 15%;
+            height: 6vh;
+            margin-left: 13px;
+        }
+        #footer {
+            height: 135vh;
+        }
+        .footer-copyright{
+            display: flex;
+            flex-wrap: wrap !important;
+        }
+        #footer .footer-top .footer-info button {
+            width: 20%;
+            height: 8vh;
+          
+        }
+}
+
+@media (max-width: 360px){
+.about {
+    width: 100%;
+    height: 112vh;}
+    .skills img {
+        height: 31vh;
+        width: 78%;
+    }
+    .testimonial .box {
+        display: flex;
+        flex-wrap: wrap !important;
+        margin-left: -49px;
+    }
+    .client {
+        height: 177vh;
+    }
+    .client button {
+        width: 42%;
+    }
+    #footer {
+        height: 150vh;
+    }
+    .footer-copyright{
+        display: flex;
+        flex-wrap: wrap !important;
+    }
+#footer .footer-copyright .icon button {
+    width: 12%;
+    margin-left: 16px;
+    margin-top: -42px;
+    height: 6vh;
+}
+}
+@media (max-width: 360px){
+    .about{
+        height: 138vh;
+    }
+    .skills{
+        height: 130vh;
+    }
+    .client {
+        height: 177vh;
+    }
+    .col-3 {
+        max-width: 61%;
+    }
+    .footer-copyright{
+        display: flex;
+        flex-wrap: wrap !important;
+    }
+}
